@@ -1,653 +1,858 @@
-title,average_rating,number_of_reviews,price,availability,discount_percentage,book_format,bestseller_rank,category,publication_year,customers_also_bought
-Fundamentals of Data Engineering: Plan and Build Robust Data Systems,4.7,664.0,43..99,In Stock,,$41.79,,Data Modeling & Design,"Publisher
+title,average_rating,number_of_reviews,price,availability,category,publication_year
+Mastering the Data Paradox: Key to Winning in the AI Age,4.8,487.0,17..09,In Stock,Expert Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (July 26, 2022)",[]
-"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",4.8,5119.0,23..65,In Stock,,$22.47,,Data Modeling & Design,"Publisher
+                                 Penguin Random House India Pvt. Ltd (April 10, 2024)"
+Data Engineering with AWS: Acquire the skills to design and build AWS-based data transformation pipelines like a pro,4.3,43.0,24..96,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (April 2, 2017)",[]
-Data Engineering with AWS: Acquire the skills to design and build AWS-based data transformation pipelines like a pro,4.3,43.0,24..96,In Stock,,$5.00,,Data Modeling & Design,"Publisher
+                                 Packt Publishing; 2nd ed. edition (October 31, 2023)"
+"Cracking the Data Engineering Interview: Land your dream job with the help of resume-building tips, over 100 mock questions, and a unique portfolio",4.0,10.0,26..35,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 2nd ed. edition (October 31, 2023)",[]
-AI Engineering: Building Applications with Foundation Models,4.6,56.0,67..97,In Stock,,$61.35,,Intelligence & Semantics,"Publisher
+                                 Packt Publishing (November 7, 2023)"
+"Hands-On Data Engineering with R, Python and PostgreSQL",Previous,,69..99,In Stock,Data Processing,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (January 7, 2025)",[]
-Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,4.6,378.0,17..29,In Stock,,$5.80 - $11.99,,Data Modeling & Design,"Publisher
+                                 Independently published (December 14, 2024)"
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,4.7,664.0,43..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (March 16, 2021)",[]
-Financial Data Engineering: Design and Build Data-Driven Financial Products,5.0,6.0,60..67,In Stock,,$51.12,,Financial Services,"Publisher
+                                 O'Reilly Media; 1st edition (July 26, 2022)"
+"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",4.8,5119.0,23..65,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (November 12, 2024)",[]
-Data Engineering Best Practices: Architect robust and cost-effective data solutions in the cloud era,5.0,3.0,39..99,In Stock,,$37.99,,Data Modeling & Design,"Publisher
+                                 O'Reilly Media; 1st edition (April 2, 2017)"
+Data Engineering with AWS: Acquire the skills to design and build AWS-based data transformation pipelines like a pro,4.3,43.0,24..96,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (October 11, 2024)",[]
-Data Engineering Design Patterns: Recipes for Solving the Most Common Data Engineering Problems,Previous,,79..99,This title has not yet been released.,,Ships from and sold by Amazon.com.,,Software Development,"Publisher
+                                 Packt Publishing; 2nd ed. edition (October 31, 2023)"
+Mastering the Data Paradox: Key to Winning in the AI Age,4.8,487.0,17..09,In Stock,Expert Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (June 3, 2025)",[]
-"The Data Engineering Handbook: We are Data Engineers, we make things happen, we pull rabbits out of hats, and transform raw, noisy data into gold.",5.0,2.0,9..99,In Stock,,2 global ratings,,Performance Optimization,"Publisher
+                                 Penguin Random House India Pvt. Ltd (April 10, 2024)"
+Data Engineering with AWS: Acquire the skills to design and build AWS-based data transformation pipelines like a pro,4.3,43.0,24..96,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (October 17, 2024)",[]
-Storytelling with Data: A Data Visualization Guide for Business Professionals,4.6,4981.0,26..99,In Stock,,$25.00,,Information Management,"Publisher
+                                 Packt Publishing; 2nd ed. edition (October 31, 2023)"
+"Data Engineering with dbt: A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL",4.7,20.0,37..20,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley; 1st edition (November 2, 2015)",[]
-"Data Engineering with Databricks Cookbook: Build effective data and AI solutions using Apache Spark, Databricks, and Delta Lake",4.4,14.0,39..99,In Stock,,$37.99,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (June 30, 2023)"
+"Fundamentals of Data Analytics: Learn Essential Skills, Embrace the Future, and Catapult Your Career in the Data-Driven World—A Comprehensive Guide to Data Literacy for Beginners (Fundamentals Series)",4.7,139.0,17..09,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (May 31, 2024)",[]
-"Cracking the Data Engineering Interview: Land your dream job with the help of resume-building tips, over 100 mock questions, and a unique portfolio",4.0,10.0,26..35,In Stock,,$14.59,,Data Modeling & Design,"Publisher
+                                 Independently published (November 25, 2023)"
+"Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street",4.5,1151.0,42..75,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (November 7, 2023)",[]
-Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,4.1,143.0,37..99,In Stock,,$31.91,,Data Modeling & Design,"Publisher
+                                 Ace the Data Science Interview (August 16, 2021)"
+AI Engineering: Building Applications with Foundation Models,4.6,56.0,67..97,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (October 23, 2020)",[]
-"Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street",4.5,1151.0,42..75,In Stock,,Ships from and sold by Amazon.com.,,Neural Networks,"Publisher
+                                 O'Reilly Media; 1st edition (January 7, 2025)"
+Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,4.6,378.0,17..29,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Ace the Data Science Interview (August 16, 2021)",[]
-"Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",4.8,111.0,60..59,In Stock,,$57.56,,Control Systems,"Publisher
+                                 O'Reilly Media; 1st edition (March 16, 2021)"
+Data Engineering Best Practices: Architect robust and cost-effective data solutions in the cloud era,5.0,3.0,39..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Cambridge University Press; 2nd edition (July 28, 2022)",[]
-"Data Engineering with dbt: A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL",4.7,20.0,37..20,In Stock,,$31.19,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (October 11, 2024)"
+Financial Data Engineering: Design and Build Data-Driven Financial Products,5.0,6.0,60..67,In Stock,Financial Services,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (June 30, 2023)",[]
-AWS Certified Data Engineer Associate Exam Prep 600 Practice Questions Exam Code: DEA-C01: 1st Edition - 2025,Previous,,28..55,In Stock,,$9.99,,Data Mining,"Publisher
+                                 O'Reilly Media; 1st edition (November 12, 2024)"
+Data Engineering Design Patterns: Recipes for Solving the Most Common Data Engineering Problems,Previous,,79..99,This title has not yet been released.,Software Development,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (January 6, 2025)",[]
-Snowflake Data Engineering,4.7,4.0,49..84,In Stock,,$43.99,,Expert Systems,"Publisher
+                                 O'Reilly Media; 1st edition (June 3, 2025)"
+"The Data Engineering Handbook: We are Data Engineers, we make things happen, we pull rabbits out of hats, and transform raw, noisy data into gold.",5.0,2.0,9..99,In Stock,Performance Optimization,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Manning (January 28, 2025)",[]
-Data Engineering Excellence: Architecting Resilient Systems from Scratch to Scale (The Innovators of AI and Data Series Book 3),4.8,11.0,0..99,Unavailable,,$62.16,,Business Intelligence Tools,"Publisher
+                                 Independently published (October 17, 2024)"
+Storytelling with Data: A Data Visualization Guide for Business Professionals,4.6,4981.0,26..99,In Stock,Information Management,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Starforge Publishing; 1st edition (February 24, 2025)",[]
-"Deciphering Data Architectures: Choosing Between a Modern Data Warehouse, Data Fabric, Data Lakehouse, and Data Mesh",4.5,95.0,50..99,In Stock,,$48.44,,Data Modeling & Design,"Publisher
+                                 Wiley; 1st edition (November 2, 2015)"
+"Data Engineering with Databricks Cookbook: Build effective data and AI solutions using Apache Spark, Databricks, and Delta Lake",4.4,14.0,39..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (March 12, 2024)",[]
-"Hands-On Data Engineering with R, Python and PostgreSQL",Previous,,69..99,In Stock,,,,Data Processing,"Publisher
+                                 Packt Publishing (May 31, 2024)"
+"Cracking the Data Engineering Interview: Land your dream job with the help of resume-building tips, over 100 mock questions, and a unique portfolio",4.0,10.0,26..35,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (December 14, 2024)",[]
-Ultimate Data Engineering with Databricks,4.2,12.0,21..99,Unavailable,,$37.95,,Vocabulary,"Publisher
+                                 Packt Publishing (November 7, 2023)"
+Data Engineering on Azure,4.5,13.0,43..74,Unavailable,Data in the Enterprise,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Orange Education Pvt Ltd (February 14, 2024)",[]
-Mastering the Data Paradox: Key to Winning in the AI Age,4.8,487.0,17..09,In Stock,,$17.89,,Expert Systems,"Publisher
+                                 Manning (August 17, 2021)"
+Managing Data as a Product: Design and build data-product-centered socio-technical architectures,4.4,3.0,44..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Penguin Random House India Pvt. Ltd (April 10, 2024)",[]
-97 Things Every Data Engineer Should Know: Collective Wisdom from the Experts,4.2,57.0,0..00,Unavailable,,$27.54,,Testing,,[]
-"Ultimate Azure Data Engineering: Build Robust Data Engineering Systems on Azure with SQL, ETL, Data Modeling, and Power BI for Business Insights and Crack Azure Certifications (English Edition)",4.7,17.0,22..99,Unavailable,,$39.95,,LAN,"Publisher
+                                 Packt Publishing (November 29, 2024)"
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,4.3,13.0,31..39,In Stock,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Orange Education Pvt Ltd (July 22, 2024)",[]
-Software Engineering for Data Scientists: From Notebooks to Scalable Systems,4.4,18.0,45..00,In Stock,,$42.75,,Intelligence & Semantics,"Publisher
+                                 Packt Publishing (June 30, 2022)"
+"Getting Started with DuckDB: A practical guide for accelerating your data science, data analytics, and data engineering workflows",3.4,3.0,35..19,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (May 21, 2024)",[]
-"Python Data Engineering Resources: Forge Your Path to Success in Data Engineering, Machine Learning and AI (Future-Proof Tech Skills: Including AI, Python, SQL, Linux And More Book 1)",4.9,19.0,4..99,Unavailable,,$9.99,,Python,"Publisher
+                                 Packt Publishing (June 24, 2024)"
+"Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street",4.5,1151.0,42..75,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Companion Code SL; 1st edition (April 25, 2024)",[]
-Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,4.4,98.0,41..07,Unavailable,500.0,$24.47 - $49.49,,Data Mining,"Publisher
+                                 Ace the Data Science Interview (August 16, 2021)"
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,4.1,143.0,37..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 1st edition (December 29, 2021)",[]
-Data Engineering with Python cookbook: Learn to build efficient data pipelines using the Modern Cloud Data Stack (Data Engineering with Python cookbook series),5.0,5.0,32..99,In Stock,,$34.99,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (October 23, 2020)"
+"Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control",4.8,111.0,60..59,In Stock,Control Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (October 3, 2023)",[]
-Managing Data as a Product: Design and build data-product-centered socio-technical architectures,4.4,3.0,44..99,In Stock,,$35.99,,Data Modeling & Design,"Publisher
+                                 Cambridge University Press; 2nd edition (July 28, 2022)"
+"Data Engineering with dbt: A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL",4.7,20.0,37..20,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (November 29, 2024)",[]
-Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists,4.4,81.0,43..75,Unavailable,,$41.56,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (June 30, 2023)"
+"Data Engineering with dbt: A practical guide to building a cloud-based, pragmatic, and dependable data platform with SQL",4.7,20.0,37..20,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (May 8, 2018)",[]
-Grokking Data Structures,5.0,3.0,41..99,In Stock,,$36.99,,Software Development,"Publisher
+                                 Packt Publishing (June 30, 2023)"
+Mastering Data Profiling. Advanced Techniques for Insightful Analysis.,Previous,,99..99,In Stock,Relational Databases,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Manning (August 13, 2024)",[]
-Data Engineering with AWS Cookbook: A recipe-based approach to help you tackle data engineering problems with AWS services,5.0,1.0,49..99,In Stock,,$39.99,,Data Modeling & Design,"Publisher
+                                 Independently published (February 25, 2024)"
+Data Engineering with AWS Cookbook: A recipe-based approach to help you tackle data engineering problems with AWS services,5.0,1.0,49..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (November 29, 2024)",[]
-Database Internals: A Deep Dive into How Distributed Data Systems Work,4.6,493.0,36..49,In Stock,,$34.67,,Management Information Systems,"Publisher
+                                 Packt Publishing (November 29, 2024)"
+Azure Data Engineer Associate Certification Guide: Ace the DP-203 exam with advanced data engineering skills,3.7,24.0,49..99,In Stock,Microsoft,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (November 5, 2019)",[]
-"Designing Data-Intensive Applications: 2 books in 1 - The Ultimate Framework to Building, Scaling, and Optimizing Reliable Data Systems. From Fundamentals to Real-World Mastery (Computer Programming)",5.0,43.0,38..99,In Stock,,Ships from and sold by Amazon.com.,,Networks,"Publisher
+                                 Packt Publishing - ebooks Account; 2nd ed. edition (May 23, 2024)"
+Snowflake Data Engineering,4.7,4.0,49..84,In Stock,Expert Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (January 10, 2025)",[]
-Machine Learning Engineering,4.7,277.0,39..49,Unavailable,,$33.95,,Expert Systems,"Publisher
+                                 Manning (January 28, 2025)"
+AWS Certified Data Engineer Associate Exam Prep 600 Practice Questions Exam Code: DEA-C01: 1st Edition - 2025,Previous,,28..55,In Stock,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 True Positive Inc. (September 5, 2020)",[]
-"Fundamentals of Data Analytics: Learn Essential Skills, Embrace the Future, and Catapult Your Career in the Data-Driven World—A Comprehensive Guide to Data Literacy for Beginners (Fundamentals Series)",4.7,139.0,17..09,In Stock,,$27.99,,Data Modeling & Design,"Publisher
+                                 Independently published (January 6, 2025)"
+"Deciphering Data Architectures: Choosing Between a Modern Data Warehouse, Data Fabric, Data Lakehouse, and Data Mesh",4.5,95.0,50..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (November 25, 2023)",[]
-"Ultimate AWS Data Engineering: Design, Implement and Optimize Scalable Data Solutions on AWS with Practical Workflows and Visual Aids for Unmatched Impact (English Edition)",5.0,2.0,39..95,In Stock,,$24.95,,Data Modeling & Design,"Publisher
+                                 O'Reilly Media; 1st edition (March 12, 2024)"
+Data Engineering Excellence: Architecting Resilient Systems from Scratch to Scale (The Innovators of AI and Data Series Book 3),4.8,11.0,0..99,Unavailable,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Orange Education Pvt Ltd (January 23, 2025)",[]
-Humanizing Data Strategy: Leading Data with the Head and the Heart,4.4,53.0,25..67,In Stock,,$9.99,,Information Management,"Publisher
+                                 Starforge Publishing; 1st edition (February 24, 2025)"
+"Hands-On Data Engineering with R, Python and PostgreSQL",Previous,,69..99,In Stock,Data Processing,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Technics Publications (July 25, 2024)",[]
-Mastering Data Science: A Comprehensive Hands-on Guide,4.8,12.0,19..99,Unavailable,,$29.99,,Information Technology,"Publisher
+                                 Independently published (December 14, 2024)"
+Ultimate Data Engineering with Databricks,4.2,12.0,21..99,Unavailable,Vocabulary,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 KnoDAX (January 27, 2025)",[]
-"Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks",4.5,382.0,32..50,In Stock,,"$2,995.00",,General,"Publisher
+                                 Orange Education Pvt Ltd (February 14, 2024)"
+Mastering the Data Paradox: Key to Winning in the AI Age,4.8,487.0,17..09,In Stock,Expert Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Columbia University Press (February 9, 2021)",[]
-"A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills",4.7,798.0,36..44,In Stock,,$34.62,,Structured Design,"Publisher
+                                 Penguin Random House India Pvt. Ltd (April 10, 2024)"
+97 Things Every Data Engineer Should Know: Collective Wisdom from the Experts,4.2,57.0,0..00,Unavailable,Testing,
+"Ultimate Azure Data Engineering: Build Robust Data Engineering Systems on Azure with SQL, ETL, Data Modeling, and Power BI for Business Insights and Crack Azure Certifications (English Edition)",4.7,17.0,22..99,Unavailable,LAN,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Pragmatic Bookshelf; 2nd edition (September 15, 2020)",[]
-Azure Data Engineer Associate Certification Guide: Ace the DP-203 exam with advanced data engineering skills,3.7,24.0,49..99,In Stock,,$39.99,,Microsoft,"Publisher
+                                 Orange Education Pvt Ltd (July 22, 2024)"
+Software Engineering for Data Scientists: From Notebooks to Scalable Systems,4.4,18.0,45..00,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing - ebooks Account; 2nd ed. edition (May 23, 2024)",[]
-Invisible Women: Data Bias in a World Designed for Men,4.6,12169.0,15..85,In Stock,,$16.51,,Discrimination & Racism,"Publisher
+                                 O'Reilly Media; 1st edition (May 21, 2024)"
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,4.4,98.0,41..07,Unavailable,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Harry N. Abrams (March 2, 2021)",[]
-Data Engineering with Python cookbook: Learn to build efficient data pipelines using the Modern Cloud Data Stack (Data Engineering with Python cookbook series 1),Previous,,32..99,Unavailable,,,,Python,,[]
-Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,4.3,13.0,31..39,In Stock,,$29.82,,Business Intelligence Tools,"Publisher
+                                 Packt Publishing; 1st edition (December 29, 2021)"
+"Python Data Engineering Resources: Forge Your Path to Success in Data Engineering, Machine Learning and AI (Future-Proof Tech Skills: Including AI, Python, SQL, Linux And More Book 1)",4.9,19.0,4..99,Unavailable,Python,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (June 30, 2022)",[]
-Machine Learning System Design Interview: 3 Books in 1: The Ultimate Guide to Master System Design and Machine Learning Interviews. From Beginners to Advanced Techniques (Computer Programming),5.0,187.0,35..14,In Stock,,Ships from and sold by Amazon.com.,,Neural Networks,"Publisher
+                                 Companion Code SL; 1st edition (April 25, 2024)"
+Data Engineering with Python cookbook: Learn to build efficient data pipelines using the Modern Cloud Data Stack (Data Engineering with Python cookbook series),5.0,5.0,32..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (January 3, 2025)",[]
-Fundamentals of Analytics Engineering: An introduction to building end-to-end analytics solutions,4.0,11.0,44..99,In Stock,,$22.39,,Data Modeling & Design,"Publisher
+                                 Independently published (October 3, 2023)"
+Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists,4.4,81.0,43..75,Unavailable,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (March 29, 2024)",[]
-"Data Centre Essentials: Design, Construction, and Operation of Data Centres for the Non-expert",5.0,6.0,99..66,Unavailable,,$100.00,,Design & Construction,"Publisher
+                                 O'Reilly Media; 1st edition (May 8, 2018)"
+Managing Data as a Product: Design and build data-product-centered socio-technical architectures,4.4,3.0,44..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley-Blackwell; 1st edition (July 17, 2023)",[]
-Data Engineering 101,3.9,4.0,30..00,In Stock,,$22.00,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (November 29, 2024)"
+Grokking Data Structures,5.0,3.0,41..99,In Stock,Software Development,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (June 8, 2024)",[]
-Data Engineering with Google Cloud Platform: A guide to leveling up as a data engineer by building a scalable data platform with Google Cloud,4.9,12.0,40..55,In Stock,,$33.99,,Data Modeling & Design,"Publisher
+                                 Manning (August 13, 2024)"
+Data Engineering with AWS Cookbook: A recipe-based approach to help you tackle data engineering problems with AWS services,5.0,1.0,49..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 2nd ed. edition (April 30, 2024)",[]
-Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications,4.2,12.0,28..81,Unavailable,,$13.45 - $27.78,,Probability & Statistics,"Publisher
+                                 Packt Publishing (November 29, 2024)"
+Database Internals: A Deep Dive into How Distributed Data Systems Work,4.6,493.0,36..49,In Stock,Management Information Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Apress; 1st ed. edition (March 23, 2022)",[]
-"DATA ENGINEERING WITH PYTHON: Build Efficient Data Pipelines with Python, SQL, and Airflow",Previous,,2..99,Unavailable,,$29.99,,Database Management Systems,,[]
-Official Google Cloud Certified Professional Data Engineer Study Guide,4.5,233.0,33..49,In Stock,,$38.00,,"Internet, Groupware, & Telecommunications","Publisher
+                                 O'Reilly Media; 1st edition (November 5, 2019)"
+Machine Learning Engineering,4.7,277.0,39..49,Unavailable,Expert Systems,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Sybex; 1st edition (June 10, 2020)",[]
-Data Science: The Hard Parts: Techniques for Excelling at Data Science,4.2,5.0,48..99,In Stock,,$46.54,,Research,"Publisher
+                                 True Positive Inc. (September 5, 2020)"
+Invisible Women: Data Bias in a World Designed for Men,4.6,12169.0,15..85,In Stock,Discrimination & Racism,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (December 5, 2023)",[]
-Machine Learning Architecture: Engineering Production Systems Through Iterative Design (The Innovators of AI and Data Series Book 1),4.9,11.0,50..99,Unavailable,,$54.22,,Machine Theory,"Publisher
+                                 Harry N. Abrams (March 2, 2021)"
+"Designing Data-Intensive Applications: 2 books in 1 - The Ultimate Framework to Building, Scaling, and Optimizing Reliable Data Systems. From Fundamentals to Real-World Mastery (Computer Programming)",5.0,43.0,38..99,In Stock,Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Starforge Publishing; 1st edition (January 3, 2025)",[]
-"Data Engineering with Apache Spark, Delta Lake, and Lakehouse: Create scalable pipelines that ingest, curate, and aggregate complex data in a timely and secure way",3.9,75.0,46..57,In Stock,,$31.19,,Data Modeling & Design,"Publisher
+                                 Independently published (January 10, 2025)"
+"Ultimate AWS Data Engineering: Design, Implement and Optimize Scalable Data Solutions on AWS with Practical Workflows and Visual Aids for Unmatched Impact (English Edition)",5.0,2.0,39..95,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (October 22, 2021)",[]
-"DATA ENGINEERING AND AI FOR BEGINNERS: Revolutionizing Data Processing and Analytics by Leveraging Artificial Intelligence for Efficient Input Collection, Storage, and Transformation (World of AI)",4.4,34.0,4..99,Unavailable,,$13.47,,Computer Literacy,,[]
-Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines,4.2,35.0,45..99,Unavailable,,$43.69,,Storage & Retrieval,"Publisher
+                                 Orange Education Pvt Ltd (January 23, 2025)"
+"A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills",4.7,798.0,36..44,In Stock,Structured Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (October 11, 2022)",[]
-Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications,4.6,677.0,40..00,In Stock,,$38.00,,Intelligence & Semantics,"Publisher
+                                 Pragmatic Bookshelf; 2nd edition (September 15, 2020)"
+"Fundamentals of Data Analytics: Learn Essential Skills, Embrace the Future, and Catapult Your Career in the Data-Driven World—A Comprehensive Guide to Data Literacy for Beginners (Fundamentals Series)",4.7,139.0,17..09,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (June 21, 2022)",[]
-Analytics Engineering with SQL and dbt: Building Meaningful Data Models at Scale,4.1,14.0,39..92,In Stock,,$37.92,,Data Mining,"Publisher
+                                 Independently published (November 25, 2023)"
+"Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks",4.5,382.0,32..50,In Stock,General,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (January 16, 2024)",[]
-LLM Engineer's Handbook: Master the art of engineering large language models from concept to production,4.7,59.0,49..09,In Stock,,$46.64,,Intelligence & Semantics,"Publisher
+                                 Columbia University Press (February 9, 2021)"
+Humanizing Data Strategy: Leading Data with the Head and the Heart,4.4,53.0,25..67,In Stock,Information Management,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (October 22, 2024)",[]
-Data Privacy: A runbook for engineers,4.8,55.0,35..39,In Stock,,$36.99,,"Internet, Groupware, & Telecommunications","Publisher
+                                 Technics Publications (July 25, 2024)"
+Azure Data Engineer Associate Certification Guide: Ace the DP-203 exam with advanced data engineering skills,3.7,24.0,49..99,In Stock,Microsoft,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Manning (February 15, 2022)",[]
-"Azure Data Engineering Cookbook: Get well versed in various data engineering techniques in Azure using this recipe-based guide, 2nd Edition",3.4,16.0,49..14,In Stock,,$31.91,,Business Intelligence Tools,"Publisher
+                                 Packt Publishing - ebooks Account; 2nd ed. edition (May 23, 2024)"
+Mastering Data Science: A Comprehensive Hands-on Guide,4.8,12.0,19..99,Unavailable,Information Technology,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 2nd ed. edition (September 26, 2022)",[]
-The Strategic Data Playbook: A Six-Step Data Strategy Framework to Turn Your Company into a Data-Driven Powerhouse. Unlock Profits and Productivity with Advanced Analytics and Artificial Intelligence,4.8,32.0,2..99,Unavailable,,$16.47,,Software Project Management,,[]
-"The Self-Taught Cloud Computing Engineer: A comprehensive professional study guide to AWS, Azure, and GCP",4.9,233.0,38..46,In Stock,,$31.19,,Software Development,"Publisher
+                                 KnoDAX (January 27, 2025)"
+Data Engineering with Python cookbook: Learn to build efficient data pipelines using the Modern Cloud Data Stack (Data Engineering with Python cookbook series 1),Previous,,32..99,Unavailable,Python,
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,4.3,13.0,31..39,In Stock,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (September 22, 2023)",[]
-Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP,4.7,30.0,37..52,Unavailable,3399.0,$39.50,,Data Mining,"Publisher
+                                 Packt Publishing (June 30, 2022)"
+"Data Centre Essentials: Design, Construction, and Operation of Data Centres for the Non-expert",5.0,6.0,99..66,Unavailable,Design & Construction,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 1st edition (March 31, 2022)",[]
-Principles and Practice of Big Data,5.0,4.0,53..63,In Stock,,$50.95,,Storage & Retrieval,"Publisher
+                                 Wiley-Blackwell; 1st edition (July 17, 2023)"
+Machine Learning System Design Interview: 3 Books in 1: The Ultimate Guide to Master System Design and Machine Learning Interviews. From Beginners to Advanced Techniques (Computer Programming),5.0,187.0,35..14,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Academic Press; 2nd edition (August 8, 2018)",[]
-Fuzzy Data Matching with SQL: Enhancing Data Quality and Query Performance,Previous,,28..45,Unavailable,,$27.03,,Data Modeling & Design,"Publisher
+                                 Independently published (January 3, 2025)"
+"Mastering Large Language Models: A Hands-On Guide to AI-Powered Applications, Cutting-Edge Techniques for LLM Engineering, Fine-Tuning, and Scalable Deployment",4.6,12.0,49..99,In Stock,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (November 7, 2023)",[]
-"Fundamentals of Data Engineering: A Comprehensive Guide to Designing, Building, and Managing Data Pipelines, Storage Solutions, and Processing Frameworks.",5.0,1.0,14..95,In Stock,,$19.95,,Data Modeling & Design,"Publisher
+                                 Independently published (February 8, 2025)"
+"Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street",4.5,1151.0,42..75,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (September 22, 2024)",[]
-Building ETL Pipelines with Python: Create and deploy enterprise-ready ETL pipelines by employing modern methods,4.3,10.0,25..90,In Stock,,$17.19,,Data Mining,"Publisher
+                                 Ace the Data Science Interview (August 16, 2021)"
+Causal Inference for Data Science,5.0,1.0,47..96,In Stock,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing (September 29, 2023)",[]
-Data Engineering on Azure,4.5,13.0,43..74,Unavailable,,$36.99,,Data in the Enterprise,"Publisher
+                                 Manning (January 21, 2025)"
+Data Modeling with Snowflake: A practical guide to accelerating Snowflake development using universal data modeling techniques,4.7,55.0,36..60,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Manning (August 17, 2021)",[]
-Learning Spark: Lightning-Fast Data Analytics,4.7,305.0,41..56,Unavailable,,$39.48,,Software Development,"Publisher
+                                 Packt Publishing (May 31, 2023)"
+"Data Centre Essentials: Design, Construction, and Operation of Data Centres for the Non-expert",5.0,6.0,99..66,Unavailable,Design & Construction,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 2nd edition (August 25, 2020)",[]
-Living in Data,4.5,83.0,11..29,In Stock,,$11.99,,Public Art,"Publisher
+                                 Wiley-Blackwell; 1st edition (July 17, 2023)"
+Data Engineering with Google Cloud Platform: A guide to leveling up as a data engineer by building a scalable data platform with Google Cloud,4.9,12.0,40..55,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Picador Paper (August 30, 2022)",[]
-Data Structures and Algorithms,4.3,115.0,61..47,Unavailable,,$34.10,,Data Structures,"Publisher
+                                 Packt Publishing; 2nd ed. edition (April 30, 2024)"
+Data Engineering 101,3.9,4.0,30..00,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Pearson; First Edition (January 1, 1983)",[]
-Machine Learning Engineering with Python - Second Edition: Manage the lifecycle of machine learning models using MLOps with practical examples,4.7,49.0,39..99,In Stock,,$31.19,,Neural Networks,"Publisher
+                                 Independently published (June 8, 2024)"
+Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications,4.2,12.0,28..93,Unavailable,Probability & Statistics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 2nd ed. edition (August 31, 2023)",[]
-Prompt Engineering for Generative AI: Future-Proof Inputs for Reliable AI Outputs,4.5,43.0,50..00,In Stock,,$47.50,,Neural Networks,"Publisher
+                                 Apress; 1st ed. edition (March 23, 2022)"
+"DATA ENGINEERING WITH PYTHON: Build Efficient Data Pipelines with Python, SQL, and Airflow",Previous,,2..99,Unavailable,Database Management Systems,
+Official Google Cloud Certified Professional Data Engineer Study Guide,4.5,233.0,33..49,In Stock,"Internet, Groupware, & Telecommunications","Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (June 25, 2024)",[]
-Python Programming and SQL: 5 books in 1 - The #1 Coding Course from Beginner to Advanced. Learn it Well & Fast (Computer Programming),4.4,355.0,24..39,In Stock,,$46.99,,Object-Oriented Design,"Publisher
+                                 Sybex; 1st edition (June 10, 2020)"
+Data Science: The Hard Parts: Techniques for Excelling at Data Science,4.2,5.0,48..99,In Stock,Research,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (January 10, 2023)",[]
-Aeronautical Engineer's Data Book,4.4,7.0,40..33,Unavailable,,$18.56 - $38.31,,Aerodynamics,"Publisher
+                                 O'Reilly Media; 1st edition (December 5, 2023)"
+Machine Learning Architecture: Engineering Production Systems Through Iterative Design (The Innovators of AI and Data Series Book 1),4.9,11.0,50..99,Unavailable,Machine Theory,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Butterworth-Heinemann; 1st edition (November 13, 2001)",[]
-"Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines",4.4,232.0,11..15,In Stock,,$5.14 - $10.59,,Computer Vision & Pattern Recognition,"Publisher
+                                 Starforge Publishing; 1st edition (January 3, 2025)"
+"Data Engineering with Apache Spark, Delta Lake, and Lakehouse: Create scalable pipelines that ingest, curate, and aggregate complex data in a timely and secure way",3.9,75.0,46..57,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (May 11, 2021)",[]
-Feature Engineering & Selection for Explainable Models: A Second Course for Data Scientists (Revised Edition),4.9,66.0,9..55,Unavailable,,$19.93,,Data Mining,,[]
-Data Management: Interactions with Computer Architecture and Systems,Previous,,79..99,Unavailable,,$75.99,,Computer Science,"Publisher
+                                 Packt Publishing (October 22, 2021)"
+"DATA ENGINEERING AND AI FOR BEGINNERS: Revolutionizing Data Processing and Analytics by Leveraging Artificial Intelligence for Efficient Input Collection, Storage, and Transformation (World of AI)",4.4,34.0,4..99,Unavailable,Computer Literacy,
+Analytics Engineering with SQL and dbt: Building Meaningful Data Models at Scale,4.1,14.0,39..92,In Stock,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Cambridge University Press; 1st edition (November 28, 2024)",[]
-Data Observability for Data Engineering: Proactive strategies for ensuring data accuracy and addressing broken data pipelines,3.7,4.0,18..49,Unavailable,,$36.99,,Data Warehousing,"Publisher
+                                 O'Reilly Media; 1st edition (January 16, 2024)"
+Data Quality Fundamentals: A Practitioner's Guide to Building Trustworthy Data Pipelines,4.2,35.0,45..99,Unavailable,Storage & Retrieval,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Packt Publishing; 1st edition (December 29, 2023)",[]
-Data Mesh: Delivering Data-Driven Value at Scale,4.5,330.0,43..99,In Stock,,$41.79,,Tools,"Publisher
+                                 O'Reilly Media; 1st edition (October 11, 2022)"
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications,4.6,677.0,40..00,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (April 12, 2022)",[]
-"Data: Principles To Practice - Volume 2: Exploring Big Data, Data Science, Machine Learning, Data Analysis, Visualization, Security, and Ethical Insights for Organizational Success",4.9,31.0,1..99,Unavailable,,$24.99,,Big Data,,[]
-"The Enterprise Data Catalog: Improve Data Discovery, Ensure Data Governance, and Enable Innovation",4.5,47.0,31..37,Unavailable,,$29.80,,Business Intelligence Tools,"Publisher
+                                 O'Reilly Media; 1st edition (June 21, 2022)"
+LLM Engineer's Handbook: Master the art of engineering large language models from concept to production,4.7,59.0,49..09,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (March 21, 2023)",[]
-Python and SQL Bible: From Beginner to World Expert: Unleash the full potential of data analysis and manipulation by mastering Python and SQL,3.8,4.0,39..90,In Stock,,$34.90,,SQL,"Publisher
+                                 Packt Publishing (October 22, 2024)"
+Data Privacy: A runbook for engineers,4.8,55.0,35..39,In Stock,"Internet, Groupware, & Telecommunications","Publisher
                                     ‏
                                     :
                                     ‎
-                                 Staten House (August 27, 2024)",[]
-Databricks Certified Data Engineer Associate Study Guide,Previous,,64..99,Unavailable,,$79.99,,Professional,"Publisher
+                                 Manning (February 15, 2022)"
+"Azure Data Engineering Cookbook: Get well versed in various data engineering techniques in Azure using this recipe-based guide, 2nd Edition",3.4,16.0,49..14,In Stock,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (April 24, 2024)",[]
-Applied Machine Learning and AI for Engineers: Solve Business Problems That Can't Be Solved Algorithmically,4.6,23.0,72..01,In Stock,,$59.99,,Intelligence & Semantics,"Publisher
+                                 Packt Publishing; 2nd ed. edition (September 26, 2022)"
+The Strategic Data Playbook: A Six-Step Data Strategy Framework to Turn Your Company into a Data-Driven Powerhouse. Unlock Profits and Productivity with Advanced Analytics and Artificial Intelligence,4.8,32.0,2..99,Unavailable,Software Project Management,
+"The Self-Taught Cloud Computing Engineer: A comprehensive professional study guide to AWS, Azure, and GCP",4.9,233.0,38..46,In Stock,Software Development,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (December 20, 2022)",[]
-AI 101 for TECH LEADERS and ENGINEERS: JUST ENOUGH TO BE DANGEROUS: Skip the Hype and Put Your FOMO to Rest — Harness AI Power BEFORE IT TAKES YOUR JOB!,5.0,1.0,0..00,Unavailable,,1 global rating,,Software Development,,[]
-Machine Learning Production Systems: Engineering Machine Learning Models and Pipelines,5.0,2.0,53..35,In Stock,,$50.68,,Intelligence & Semantics,"Publisher
+                                 Packt Publishing (September 22, 2023)"
+Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP,4.7,30.0,37..52,Unavailable,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (November 5, 2024)",[]
-Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric,4.5,38.0,47..99,In Stock,,$45.59,,Data Modeling & Design,"Publisher
+                                 Packt Publishing; 1st edition (March 31, 2022)"
+Principles and Practice of Big Data,5.0,4.0,53..63,In Stock,Storage & Retrieval,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 2nd edition (May 16, 2023)",[]
-Artificial Intelligence in Workplace Health and Safety (Intelligent Data-Driven Systems and Artificial Intelligence),Previous,,79..96,In Stock,,$75.96,,Intelligence & Semantics,"Publisher
+                                 Academic Press; 2nd edition (August 8, 2018)"
+Data Engineering on Azure,4.5,13.0,43..74,Unavailable,Data in the Enterprise,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 CRC Press; 1st edition (October 30, 2024)",[]
-Statistics and Data Analysis for Engineers and Scientists (Transactions on Computer Systems and Networks),Previous,,59..99,Unavailable,,,,Intelligence & Semantics,"Publisher
+                                 Manning (August 17, 2021)"
+Fuzzy Data Matching with SQL: Enhancing Data Quality and Query Performance,Previous,,28..45,Unavailable,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Springer (January 29, 2025)",[]
-"Backup and Synchronization Using Syncthing and Restic: Open source, self-hosted solutions to keep your data secure and private.",5.0,4.0,3..99,Unavailable,,4 global ratings,,Disaster & Recovery,"Publisher
+                                 O'Reilly Media; 1st edition (November 7, 2023)"
+"Fundamentals of Data Engineering: A Comprehensive Guide to Designing, Building, and Managing Data Pipelines, Storage Solutions, and Processing Frameworks.",5.0,1.0,14..95,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 No Fluff Press; 1st edition (February 16, 2025)",[]
-Engineers' Practical Databook: A Technical Reference Guide for Students and Professionals,4.6,812.0,18..04,In Stock,,Ships from and sold by Amazon.com.,,Engineering,"Publisher
+                                 Independently published (September 22, 2024)"
+Building ETL Pipelines with Python: Create and deploy enterprise-ready ETL pipelines by employing modern methods,4.3,10.0,25..90,In Stock,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (August 2, 2018)",[]
-Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric,4.5,38,47..99,In Stock,,$45.59,,Data Modeling & Design,"Publisher
+                                 Packt Publishing (September 29, 2023)"
+Data Engineering on Azure,4.5,13.0,43..74,Unavailable,Data in the Enterprise,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 2nd edition (May 16, 2023)",[]
-The TTL Data Book for Design Engineers Second Edition,4.5,29,7..99,Unavailable,,29 global ratings,,Book Design,"Publisher
+                                 Manning (August 17, 2021)"
+Learning Spark: Lightning-Fast Data Analytics,4.7,305.0,41..56,Unavailable,Software Development,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Texas Instruments Inc; Second Edition (January 1, 1976)",[]
-The TTL Data Book for Design Engineers,1.0,1,16..06,Unavailable,,1 global rating,,Book Design,"Publisher
+                                 O'Reilly Media; 2nd edition (August 25, 2020)"
+Data Structures and Algorithms,4.3,115.0,61..47,Unavailable,Data Structures,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Texas Instruments Inc; First Edition (January 1, 1973)",[]
-Data Literacy Fundamentals: Understanding the Power and Value of Data (The Data Literacy Series),Previous,,32..95,In Stock,,$9.99,,Computers & Technology,"Publisher
+                                 Pearson; First Edition (January 1, 1983)"
+Living in Data,4.5,83.0,11..29,In Stock,Public Art,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Data Literacy Press; 2nd ed. edition (February 18, 2025)",[]
-How Data Happened: A History from the Age of Reason to the Age of Algorithms,4.1,66,17..43,In Stock,,$9.99,,History,"Publisher
+                                 Picador Paper (August 30, 2022)"
+"Fundamentals of Data Engineering: A Comprehensive Guide to Designing, Building, and Managing Data Pipelines, Storage Solutions, and Processing Frameworks.",5.0,1.0,14..95,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 W. W. Norton & Company (March 19, 2024)",[]
-Data Science (The MIT Press Essential Knowledge series),4.4,564,10..83,In Stock,,$13.99,,Data Processing,"Publisher
+                                 Independently published (September 22, 2024)"
+Data Privacy: A runbook for engineers,4.8,55.0,35..39,In Stock,"Internet, Groupware, & Telecommunications","Publisher
                                     ‏
                                     :
                                     ‎
-                                 The MIT Press; Illustrated edition (April 13, 2018)",[]
-Fundamentals of Data Observability: Implement Trustworthy End-to-End Data Solutions,4.0,3,36..49,Unavailable,,$34.67,,Data Modeling & Design,"Publisher
+                                 Manning (February 15, 2022)"
+"Ultimate Data Engineering with Databricks: Develop Scalable Data Pipelines Using Data Engineering's Core Tenets Such as Delta Tables, Ingestion, ... Security, and Scalability (English Edition)",4.2,12.0,37..95,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (September 19, 2023)",[]
-"Data Analytics, Data Visualization & Communicating Data: 3 books in 1: Learn the Processes of Data Analytics and Data Science, Create Engaging Data Visualizations, and Present Data Effectively",4.5,79,0..00,Unavailable,,$8.99,,Data Modeling & Design,,[]
-"Backup and Synchronization Using Syncthing and Restic: Open source, self-hosted solutions to keep your data secure and private.",5.0,4,3..99,Unavailable,,4 global ratings,,Disaster & Recovery,"Publisher
+                                 Orange Education Pvt Ltd (February 15, 2024)"
+"Kafka Data Engineer (KDE) Handbook - Kafka Development & Engineering Guide: Advanced Kafka Skills for Data Engineers (KDE): Custom Topic Management, ... Streaming, Real-time Analytics (KAFKA 2025)",Previous,,38..32,In Stock,Data Processing,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 No Fluff Press; 1st edition (February 16, 2025)",[]
-Databricks Certified Data Engineer Associate Study Guide,Previous,,64..99,Unavailable,,$79.99,,Professional,"Publisher
+                                 Independently published (February 10, 2025)"
+Machine Learning Engineering with Python - Second Edition: Manage the lifecycle of machine learning models using MLOps with practical examples,4.7,49.0,39..99,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (April 24, 2024)",[]
-Engineers' Practical Databook: A Technical Reference Guide for Students and Professionals,4.6,812,18..04,In Stock,,Ships from and sold by Amazon.com.,,Engineering,"Publisher
+                                 Packt Publishing; 2nd ed. edition (August 31, 2023)"
+"Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines",4.4,232.0,11..15,In Stock,Computer Vision & Pattern Recognition,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (August 2, 2018)",[]
-"The Data Model Resource Book, Vol. 2: A Library of Data Models for Specific Industries",4.0,38,63..00,Unavailable,,$63.00,,Information Management,"Publisher
+                                 O'Reilly Media; 1st edition (May 11, 2021)"
+Prompt Engineering for Generative AI: Future-Proof Inputs for Reliable AI Outputs,4.5,43.0,50..00,In Stock,Neural Networks,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley; Revised edition (March 7, 2001)",[]
-Official Google Cloud Certified Professional Machine Learning Engineer Study Guide (Sybex Study Guide),4.1,44,57..45,In Stock,,$52.00,,Intelligence & Semantics,"Publisher
+                                 O'Reilly Media; 1st edition (June 25, 2024)"
+Python Programming and SQL: 5 books in 1 - The #1 Coding Course from Beginner to Advanced. Learn it Well & Fast (Computer Programming),4.4,355.0,24..39,In Stock,Object-Oriented Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley; 1st edition (November 21, 2023)",[]
-Data Structures & Algorithms in Python (Developer's Library),4.9,38,68..65,In Stock,,$52.79,,Structured Design,"Publisher
+                                 Independently published (January 10, 2023)"
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,4.3,13.0,31..39,In Stock,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Addison-Wesley Professional; 1st edition (October 14, 2022)",[]
-System Design Interview – An Insider's Guide: Volume 2,4.6,1309,38..00,In Stock,,$38.00,,Software Development,"Publisher
+                                 Packt Publishing (June 30, 2022)"
+"Python Data Engineering Resources: Forge Your Path to Success in Data Engineering, Machine Learning and AI (Future-Proof Tech Skills: Including AI, Python, SQL, Linux And More Book 1)",4.9,19.0,4..99,Unavailable,Python,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Byte Code LLC (March 11, 2022)",[]
-Everything Data Analytics A Beginner's Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights,4.4,86,0..00,Unavailable,,$4.99,,Data Modeling & Design,,[]
-Data Engineering Process Fundamentals: Master the Fundamentals of Data Engineering with a Hands-on Approach,Previous,,9..99,Unavailable,,$24.99,,Data Mining,,[]
-An Introduction to Agile Data Engineering Using Data Vault 2.0: Better Data Modeling,3.9,54,16..06,In Stock,,Ships from and sold by Amazon.com.,,Data Modeling & Design,"Publisher
+                                 Companion Code SL; 1st edition (April 25, 2024)"
+"Mastering Data Engineering and Analytics with Databricks: A Hands-on Guide to Build Scalable Pipelines Using Databricks, Delta Lake, and MLflow (English Edition)",4.2,3.0,44..95,In Stock,Data Mining,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (November 22, 2015)",[]
-Databricks Certified Data Analyst Associate Study Guide,Previous,,49..99,Unavailable,,$59.90,,"Certification, Training & Reference",,[]
-Coding Interview Patterns: Nail Your Next Coding Interview,4.5,76,35..93,In Stock,,Ships from and sold by Amazon.com.,,Data Structures,"Publisher
+                                 Orange Education Pvt. Ltd (October 3, 2024)"
+Aeronautical Engineer's Data Book,4.4,7.0,40..33,Unavailable,Aerodynamics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 ByteByteGo (November 25, 2024)",[]
-Code: The Hidden Language of Computer Hardware and Software,4.8,708,28..19,Unavailable,,$26.83,,Unicode,"Publisher
+                                 Butterworth-Heinemann; 1st edition (November 13, 2001)"
+Feature Engineering & Selection for Explainable Models: A Second Course for Data Scientists (Revised Edition),4.9,66.0,9..55,Unavailable,Data Mining,
+Data Management: Interactions with Computer Architecture and Systems,Previous,,79..99,Unavailable,Computer Science,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Microsoft Press; 2nd edition (August 7, 2022)",[]
-Data-oriented design: software engineering for limited resources and short schedules,4.4,120,32..66,In Stock,,$31.99,,Game Programming,"Publisher
+                                 Cambridge University Press; 1st edition (November 28, 2024)"
+Data Observability for Data Engineering: Proactive strategies for ensuring data accuracy and addressing broken data pipelines,3.7,4.0,18..49,Unavailable,Data Warehousing,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Richard Fabian (September 29, 2018)",[]
-"Metalworker's Data Book for Home Machinists: The Essential Reference Guide for Everyone Who Works with Metal (Fox Chapel Publishing) Drill Sizes, Turning Tools, Electrical Components, Threads, & More",4.4,99,14..99,In Stock,,Ships from and sold by Amazon.com.,,Metal Work,"Publisher
+                                 Packt Publishing; 1st edition (December 29, 2023)"
+Data Mesh: Delivering Data-Driven Value at Scale,4.5,330.0,43..99,In Stock,Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Fox Chapel Publishing; Revised, Updated edition (September 11, 2017)",[]
-The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data,4.5,2658,11..99,Unavailable,,$7.00,,Mobile Devices,"Publisher
+                                 O'Reilly Media; 1st edition (April 12, 2022)"
+"The Enterprise Data Catalog: Improve Data Discovery, Ensure Data Governance, and Enable Innovation",4.5,47.0,31..37,Unavailable,Business Intelligence Tools,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Little, Brown and Company (February 14, 2017)",[]
-"Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming",4.8,1472,28..99,In Stock,,$29.99,,Object-Oriented Design,"Publisher
+                                 O'Reilly Media; 1st edition (March 21, 2023)"
+Python and SQL Bible: From Beginner to World Expert: Unleash the full potential of data analysis and manipulation by mastering Python and SQL,3.8,4.0,39..90,In Stock,SQL,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 No Starch Press; 3rd edition (January 10, 2023)",[]
-The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,4.5,144,31..90,Unavailable,5277,Sold by Happy Trade Store and ships from Amazon Fulfillment.,,Data Warehousing,"Publisher
+                                 Staten House (August 27, 2024)"
+Databricks Certified Data Engineer Associate Study Guide,Previous,,64..99,Unavailable,Professional,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 John Wiley & Sons Inc; Subsequent edition (January 1, 2002)",[]
-"The Data Model Resource Book, Vol. 1: A Library of Universal Data Models for All Enterprises",4.3,77,62..10,Unavailable,,Ships from and sold by Amazon.com.,,Information Management,"Publisher
+                                 O'Reilly Media; 1st edition (April 24, 2024)"
+Applied Machine Learning and AI for Engineers: Solve Business Problems That Can't Be Solved Algorithmically,4.6,23.0,72..01,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley; Revised edition (March 6, 2001)",[]
-Marketing Analytics: Data-Driven Techniques with Microsoft Excel,4.5,226,14..02,Unavailable,,$33.00,,Research,"Publisher
+                                 O'Reilly Media; 1st edition (December 20, 2022)"
+Machine Learning Production Systems: Engineering Machine Learning Models and Pipelines,5.0,2.0,53..35,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Wiley; 1st edition (January 13, 2014)",[]
-"Data: Principles To Practice - Volume 2: Exploring Big Data, Data Science, Machine Learning, Data Analysis, Visualization, Security, and Ethical Insights for Organizational Success",4.9,31,1..99,Unavailable,,$24.99,,Big Data,,[]
-Unstructured Data: A Primer for Beginning Analyst in the Age of AI,Previous,,9..99,Unavailable,,$21.99,,Big Data,"Publisher
+                                 O'Reilly Media; 1st edition (November 5, 2024)"
+AI 101 for TECH LEADERS and ENGINEERS: JUST ENOUGH TO BE DANGEROUS: Skip the Hype and Put Your FOMO to Rest — Harness AI Power BEFORE IT TAKES YOUR JOB!,5.0,1.0,0..00,Unavailable,Software Development,
+Data Management at Scale: Modern Data Architecture with Data Mesh and Data Fabric,4.5,38.0,47..99,In Stock,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Data Analytics Curriculum (February 23, 2025)",[]
-Building Event-Driven Microservices: Leveraging Organizational Data at Scale,4.4,308,32..84,Unavailable,6999,$31.20,,Software Development,"Publisher
+                                 O'Reilly Media; 2nd edition (May 16, 2023)"
+Statistics and Data Analysis for Engineers and Scientists (Transactions on Computer Systems and Networks),Previous,,59..99,Unavailable,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 O'Reilly Media; 1st edition (August 11, 2020)",[]
-Excelonomics: Advanced Excel Applications for Economic and Financial Analysis: A Comprehensive Guide 2025 (Data Driven World Book 8),Previous,,9..99,Unavailable,,,,Spreadsheets,"Publisher
+                                 Springer (January 29, 2025)"
+"Data: Principles To Practice - Volume 2: Exploring Big Data, Data Science, Machine Learning, Data Analysis, Visualization, Security, and Ethical Insights for Organizational Success",4.9,31.0,1..99,Unavailable,Big Data,
+Artificial Intelligence in Workplace Health and Safety (Intelligent Data-Driven Systems and Artificial Intelligence),Previous,,79..96,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Reactive Publishing (January 22, 2025)",[]
-Decoding the Algorithm: How AI Shapes Our World and How to Stay Ahead (Data Driven World Book 1),Previous,,9..99,Unavailable,,,,Natural Language Processing,,[]
-FM 5-34 Engineer Field Data: April 2003,4.7,62,33..24,In Stock,,Ships from and sold by Amazon.com.,,Military Technology,"Publisher
+                                 CRC Press; 1st edition (October 30, 2024)"
+"Backup and Synchronization Using Syncthing and Restic: Open source, self-hosted solutions to keep your data secure and private.",5.0,4.0,3..99,Unavailable,Disaster & Recovery,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 CreateSpace Independent Publishing Platform (October 9, 2017)",[]
-Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Learn Machine Learning with Python Books for Beginners Book 1),4.4,421,3..94,Unavailable,,$23.90,,AI & Semantics,"Publisher
+                                 No Fluff Press; 1st edition (February 16, 2025)"
+Engineers' Practical Databook: A Technical Reference Guide for Students and Professionals,4.6,812.0,18..04,In Stock,Engineering,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Scatterplot Press; 3rd edition (December 31, 2020)",[]
-"The Little Book of Data: Understanding the Powerful Analytics that Fuel AI, Make or Break Careers, and Could Just End Up Saving the World",Previous,,29..99,"This title will be released on June 3, 2025.",,$14.99,,Statistics,"Publisher
+                                 Independently published (August 2, 2018)"
+Data Science and Analytics with Python (Chapman & Hall/CRC Data Mining and Knowledge Discovery Series),Previous,,64..99,This title has not yet been released.,Probability & Statistics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 HarperCollins Leadership (June 3, 2025)",[]
-"Data Center Design Guide - Book 1: Power: Specifying the requirements, power generation, power distribution, power efficiency, and fault tolerance for data centers",3.9,12,17..99,In Stock,,Ships from and sold by Amazon.com.,,Computers & Technology,"Publisher
+                                 Chapman and Hall/CRC; 2nd edition (April 14, 2025)"
+Databricks Data Intelligence Platform: Unlocking the GenAI Revolution,5.0,6,36..99,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (November 19, 2020)",[]
-Modeling and Simulation in Python: An Introduction for Scientists and Engineers,4.6,33,39..20,In Stock,,$23.99,,Data Modeling & Design,"Publisher
+                                 Apress; First Edition (October 13, 2024)"
+"Augment It: How Architecture, Engineering and Construction Leaders Leverage Data and Artificial Intelligence to Build a Sustainable Future",4.3,30,12..35,In Stock,Robotics & Automation,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 No Starch Press (May 30, 2023)",[]
-Data Engineering for Cybersecurity,Previous,,29..99,Unavailable,,$49.99,,Data Mining,"Publisher
+                                 Grammar Factory Publishing (April 22, 2022)"
+Data Management: Interactions with Computer Architecture and Systems,Previous,,79..99,Unavailable,Computer Science,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 No Starch Press (August 26, 2025)",[]
-SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Pragmatic Programmers),4.5,190,12..86,Unavailable,,$17.19,,Software Development,"Publisher
+                                 Cambridge University Press; 1st edition (November 28, 2024)"
+Fundamentals of Data Observability: Implement Trustworthy End-to-End Data Solutions,4.0,3,36..49,Unavailable,Data Modeling & Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Pragmatic Programmers, LLC, The; 1st edition (July 10, 2017)",[]
-"The AI Engineer’s Handbook: Mastering Python, ML, DL, NLP, and GenAI: Master AI & ML with Hands-On Projects and Expert Insights",Previous,,4..31,Unavailable,,$8.99,,Technical,,[]
-Data Center for Beginners: A beginner's guide towards understanding Data Center Design (Data Center Design Guide),4.0,156,11..99,In Stock,,Ships from and sold by Amazon.com.,,Computers & Technology,"Publisher
+                                 O'Reilly Media; 1st edition (September 19, 2023)"
+The TTL Data Book for Design Engineers Second Edition,4.5,29,7..99,Unavailable,Book Design,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (March 31, 2020)",[]
-AI Guide for Beginners: How to Use AI Prompts & Master Artificial Intelligence in 4 Practical Days (21 Days To Make Money With AI),4.6,201,14..79,In Stock,,$24.99,,Home-Based,"Publisher
+                                 Texas Instruments Inc; Second Edition (January 1, 1976)"
+Coding Interview Patterns: Nail Your Next Coding Interview,4.5,76,35..93,In Stock,Data Structures,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Independently published (November 12, 2024)",[]
-AI 101 for TECH LEADERS and ENGINEERS: JUST ENOUGH TO BE DANGEROUS: Skip the Hype and Put Your FOMO to Rest — Harness AI Power BEFORE IT TAKES YOUR JOB!,5.0,1,0..00,Unavailable,,1 global rating,,Software Development,,[]
-Winning with Data Science: A Handbook for Business Leaders,4.8,11,19..80,In Stock,,$14.57,,Business,"Publisher
+                                 ByteByteGo (November 25, 2024)"
+Official Google Cloud Certified Professional Machine Learning Engineer Study Guide (Sybex Study Guide),4.1,44,57..45,In Stock,Intelligence & Semantics,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Columbia Business School Publishing (January 30, 2024)",[]
-Cracking the Coding Interview: 189 Programming Questions and Solutions (Cracking the Interview & Career),4.7,9280,30..99,In Stock,,Ships from and sold by Amazon.com.,,Data Structures,"Publisher
+                                 Wiley; 1st edition (November 21, 2023)"
+AI Guide for Beginners: How to Use AI Prompts & Master Artificial Intelligence in 4 Practical Days (21 Days To Make Money With AI),4.6,201,14..79,In Stock,Home-Based,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 CareerCup; 6th edition (July 1, 2015)",[]
-The Model Thinker: What You Need to Know to Make Data Work for You,4.5,547,0..00,Unavailable,,$14.99,,Research,,[]
-Big Data Big Design: Why Designers Should Care about Artificial Intelligence,4.5,25,29..95,Unavailable,,Ships from and sold by Amazon.com.,,Products,"Publisher
+                                 Independently published (November 12, 2024)"
+"Data Analytics, Data Visualization & Communicating Data: 3 books in 1: Learn the Processes of Data Analytics and Data Science, Create Engaging Data Visualizations, and Present Data Effectively",4.5,79,0..00,Unavailable,Data Modeling & Design,
+Code: The Hidden Language of Computer Hardware and Software,4.8,708,28..19,Unavailable,Unicode,"Publisher
                                     ‏
                                     :
                                     ‎
-                                 Princeton Architectural Press (October 19, 2021)",[]
+                                 Microsoft Press; 2nd edition (August 7, 2022)"
+Python Feature Engineering Cookbook: A complete guide to crafting powerful features for your machine learning models,4.8,13,43..13,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Packt Publishing; 3rd ed. edition (August 30, 2024)"
+Data Science (The MIT Press Essential Knowledge series),4.4,564,10..83,In Stock,Data Processing,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 The MIT Press; Illustrated edition (April 13, 2018)"
+"Data Analytics for Absolute Beginners: Make Decisions Using Every Variable: (Introduction to Data, Data Visualization, Business Intelligence & Machine ... Data Science & Python Books for Beginners)",4.4,536,3..92,Unavailable,Data Mining,
+Data Action: Using Data for Public Good,4.7,47,23..33,Unavailable,Public Affairs & Administration,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 The MIT Press (September 20, 2022)"
+"Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming",4.8,1472,28..99,In Stock,Object-Oriented Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 No Starch Press; 3rd edition (January 10, 2023)"
+Data Literacy Fundamentals: Understanding the Power and Value of Data (The Data Literacy Series),Previous,,32..95,In Stock,Computers & Technology,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Data Literacy Press; 2nd ed. edition (February 18, 2025)"
+System Design Interview – An Insider's Guide: Volume 2,4.6,1309,38..00,In Stock,Software Development,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Byte Code LLC (March 11, 2022)"
+Data Engineering for Cybersecurity,Previous,,29..99,Unavailable,Data Mining,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 No Starch Press (August 26, 2025)"
+"The Data Model Resource Book, Vol. 2: A Library of Data Models for Specific Industries",4.0,38,57..16,Unavailable,Information Management,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Wiley; Revised edition (March 7, 2001)"
+How Data Happened: A History from the Age of Reason to the Age of Algorithms,4.1,66,17..43,In Stock,History,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 W. W. Norton & Company (March 19, 2024)"
+Databricks Certified Data Analyst Associate Study Guide,Previous,,49..99,Unavailable,"Certification, Training & Reference",
+"The Data Model Resource Book, Vol. 1: A Library of Universal Data Models for All Enterprises",4.3,77,62..10,Unavailable,Information Management,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Wiley; Revised edition (March 6, 2001)"
+The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data,4.5,2658,11..99,Unavailable,Mobile Devices,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Little, Brown and Company (February 14, 2017)"
+Storytelling with Data: Let's Practice!,4.7,685,26..07,In Stock,Communications,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Wiley; 1st edition (October 22, 2019)"
+Modeling and Simulation in Python: An Introduction for Scientists and Engineers,4.6,33,39..20,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 No Starch Press (May 30, 2023)"
+"Big Data: A Revolution That Will Transform How We Live, Work, and Think",4.2,1434,1..99,Unavailable,Mining,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Harper Business; Reprint edition (March 5, 2013)"
+Building Event-Driven Microservices: Leveraging Organizational Data at Scale,4.4,308,32..84,Unavailable,Software Development,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 O'Reilly Media; 1st edition (August 11, 2020)"
+Snowflake Data Engineering,4.7,4,49..84,In Stock,Expert Systems,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Manning (January 28, 2025)"
+Observability Engineering: Achieving Production Excellence,4.3,180,34..00,In Stock,Software Development,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 O'Reilly Media; 1st edition (June 14, 2022)"
+Data Center for Beginners: A beginner's guide towards understanding Data Center Design (Data Center Design Guide),4.0,156,11..99,In Stock,Computers & Technology,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (March 31, 2020)"
+Marketing Analytics: Data-Driven Techniques with Microsoft Excel,4.5,226,14..02,Unavailable,Research,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Wiley; 1st edition (January 13, 2014)"
+In-Memory Analytics with Apache Arrow: Accelerate data analytics for efficient processing of flat and hierarchical data structures,5.0,8,34..99,In Stock,Software Development,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Packt Publishing; 2nd ed. edition (September 30, 2024)"
+"Ultimate Azure Data Engineering: Build Robust Data Engineering Systems on Azure with SQL, ETL, Data Modeling, and Power BI for Business Insights and Crack Azure Certifications (English Edition)",4.7,17,39..95,In Stock,Microsoft,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Orange Education Pvt. Ltd (July 22, 2024)"
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,4.5,1315,29..23,In Stock,Statistics,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 O'Reilly Media; 1st edition (September 17, 2013)"
+Hands-On Data Engineering: From Zero to Production,Previous,,7..00,Unavailable,Data Warehousing,
+The Model Thinker: What You Need to Know to Make Data Work for You,4.5,547,0..00,Unavailable,Research,
+Mastering Data Governance with ADDIE Framework: A Textbook & Workbook with Course & Certification for Secure and Compliant Data Strategies (Ultimate Data ... Free Online Courses with Certification 3),Previous,,4..79,Unavailable,Planning & Forecasting,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Data & Analytics (March 4, 2025)"
+Azure Data Engineering: Building Scalable Data Solutions on the Cloud,Previous,,14..95,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (November 15, 2024)"
+"Python Data Engineering Resources: Forge Your Path to Success in Data Engineering, Machine Learning and AI (Future-Proof Tech Skills: Including AI, Python, SQL, Linux And More)",4.9,19,9..99,In Stock,Programming,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (September 27, 2024)"
+AWS Data Engineering 2025 Guide for Beginners: A Beginner’s Guide to Mastering Cloud Data Pipelines and Analytics with Modern Engineering Tools,Previous,,13..97,In Stock,Data Processing,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (November 26, 2024)"
+"Cracking the Data Engineering Interview: Land your dream job with the help of resume-building tips, over 100 mock questions, and a unique portfolio",4.0,10,26..35,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Packt Publishing (November 7, 2023)"
+An Introduction to Agile Data Engineering Using Data Vault 2.0: Better Data Modeling,3.9,54,16..06,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (November 22, 2015)"
+Data Feminism (Strong Ideas),4.8,260,20..99,In Stock,General,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 The MIT Press (October 3, 2023)"
+Unstructured Data: A Primer for Beginning Analyst in the Age of AI,Previous,,9..99,Unavailable,Big Data,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Data Analytics Curriculum (February 23, 2025)"
+"Databricks: Unified Analytics for Data Engineering, AI, and Business Intelligence",Previous,,2..99,Unavailable,Data Mining,
+Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Learn Machine Learning with Python Books for Beginners Book 1),4.4,421,3..94,Unavailable,AI & Semantics,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Scatterplot Press; 3rd edition (December 31, 2020)"
+"The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI",4.5,190,18..93,Unavailable,Robotics & Automation,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Harvard Business Review Press (May 10, 2022)"
+Effective Data Visualization: The Right Chart for the Right Data,4.5,165,64..49,Unavailable,Communications,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 SAGE Publications, Inc; 2nd edition (May 14, 2019)"
+Big Data Big Design: Why Designers Should Care about Artificial Intelligence,4.5,25,29..95,Unavailable,Products,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Princeton Architectural Press (October 19, 2021)"
+Winning with Data Science: A Handbook for Business Leaders,4.8,11,19..80,In Stock,Business,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Columbia Business School Publishing (January 30, 2024)"
+Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World,4.4,872,15..00,In Stock,Media & Internet,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 W. W. Norton & Company; Reprint edition (February 8, 2016)"
+The AI Playbook: Mastering the Rare Art of Machine Learning Deployment (Management on the Cutting Edge),4.5,80,0..00,Unavailable,Intelligence & Semantics,
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,4.5,144,33..41,Unavailable,Data Warehousing,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 John Wiley & Sons Inc; Subsequent edition (January 1, 2002)"
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,4.3,1709,0..00,Unavailable,Expert Systems,
+Analytics Modeling in Reliability and Machine Learning and Its Applications (Springer Series in Reliability Engineering),Previous,,25..99,Unavailable,AI & Semantics,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Springer (January 20, 2025)"
+"R Bioinformatics Cookbook - Second Edition: Utilize R packages for bioinformatics, genomics, data science, and machine learning",4.6,6,37..93,In Stock,Biomedical Engineering,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Packt Publishing; 2nd ed. edition (October 31, 2023)"
+Data (De)coded: What Everyone Needs to Know about Data and AI (No Tech Degree Required),5.0,3,9..99,Unavailable,AI & Semantics,
+Mastering Data Profiling. Advanced Techniques for Insightful Analysis.,Previous,,89..99,In Stock,Relational Databases,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Independently published (February 25, 2024)"
+"Building Modern Data Applications Using Databricks Lakehouse: Develop, optimize, and monitor data pipelines on Databricks",5.0,2,35..99,In Stock,Data Modeling & Design,"Publisher
+                                    ‏
+                                    :
+                                    ‎
+                                 Packt Publishing (October 31, 2024)"
